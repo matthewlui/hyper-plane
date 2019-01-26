@@ -1,7 +1,11 @@
 import Schema from "./schema";
 
 /**
- * Foundation of any concrete schema type
+ * Abstract base class of any concrete schema type with default informative properties
+ * @property {String|*} description
+ * @property {(any)=>Boolean} validation
+ * @property {any|()=>any|*} defaultValue
+ * @property {boolean|string} required Can set with string to explain reason, will treat as true in this case
  */
 export abstract class SchemaType<T> {
     constructor(
@@ -9,38 +13,56 @@ export abstract class SchemaType<T> {
         public validation: (value: T) => Boolean | null = null,
         public defaultValue: (() => T) | T | null = null,
         public required: Boolean | String = false,
-    ) {
-    }
+    ) {}
 }
 
-export class StringType extends SchemaType<string> {
-}
+/**
+ * Placeholder for SchemaType<string>
+ */
+export class StringType extends SchemaType<string> {}
 
-export class NumberType extends SchemaType<number> {
-}
+/**
+ * Placeholder for SchemaType<number>
+ */
+export class NumberType extends SchemaType<number> {}
 
-export class BooleanType extends SchemaType<boolean> {
-}
+/**
+ * Placeholder for SchemaType<boolean>
+ */
+export class BooleanType extends SchemaType<boolean> {}
 
-export class DateType extends SchemaType<Date> {
-}
+/**
+ * Placeholder for SchemaType<Date>
+ */
+export class DateType extends SchemaType<Date> {}
 
-export class ArrayType<T> extends SchemaType<T[]> {
-}
+/**
+ * Define a array type, ***ONLY WORK IN DOCUMENT BASE DB***
+ */
+export class ArrayType<T> extends SchemaType<T[]> {}
 
-class GeoLocation {
-}
+/**
+ * A yet to implement geolocation representation
+ */
+class GeoLocation {}
 
-export class GeoLocationType extends SchemaType<GeoLocation> {
-}
+/**
+ * Placeholder for SchemaType<GeoLocation>
+ */
+export class GeoLocationType extends SchemaType<GeoLocation> {}
 
+/**
+ * @property {Schema} target Schema which will associate to, for document base embedded or RMDB table as schema name
+ * @property {String} foreign Foreign field to track, for support ORM compiler customization
+ * @property {Boolean} toMany In document base, can convert to an array of sub doc, or in RMDB, a to many relationship
+ * @property {Boolean} embedFirst When set to true, for document base NoSQL, will use embed document
+ * @property {Boolean} alwaysThere for compiler enhancement, in supported ORM compiler, can always auto populate
+ */
 export class RelationType<Schema> extends SchemaType<SchemaType<Schema>> {
-
     constructor(
         public target: Schema,
         public foreign: String | null,
         public toMany: Boolean | false,
-        /// When set to true, for document base NoSQL, will use embed document
         public embedFirst: Boolean | false,
         public alwaysThere: Boolean | false,
         public description: String | null = null,
