@@ -1,4 +1,7 @@
 {
+  "name": "hyper-plane",
+  "description": "Sicking Lazy Universal Schema Preprocessor",
+  "version": "0.1.0",
   "scripts": {
     "start": "ts-node test/test.ts ",
     "watch-node": "nodemon dist/index.js",
