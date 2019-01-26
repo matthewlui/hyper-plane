@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da19c180-86af-4f56-a0d0-d142c91a08cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/schema" />
+        <option value="$PROJECT_DIR$/compiler.js" />
+        <option value="$PROJECT_DIR$/schema.js" />
+        <option value="$PROJECT_DIR$/model.ts" />
+        <option value="$PROJECT_DIR$/glupfile.js" />
+        <option value="$PROJECT_DIR$/schema.ts" />
+        <option value="$PROJECT_DIR$/compiler.ts" />
+        <option value="$PROJECT_DIR$/index.ts" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/test.ts" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/test.ts" />
+        <option value="$PROJECT_DIR$/src/compiler.ts" />
+        <option value="$PROJECT_DIR$/default/package.json" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/test.ts" />
+        <option value="$PROJECT_DIR$/src/schema.ts" />
+        <option value="$PROJECT_DIR$/src/types.ts" />
+        <option value="$PROJECT_DIR$/default/mongoose-compiler.ts" />
+        <option value="$PROJECT_DIR$/default/test/test.ts" />
+        <option value="$PROJECT_DIR$/default/test.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="376" />
+    <option name="y" value="65" />
+    <option name="width" value="1486" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="open-schema" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="open-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-schema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-schema" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="open-schema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="open-schema" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="mongoose-compiler.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/default" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Mongoose Compiler.Should create Simple Schema">
+    <configuration name="test.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/default/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mongoose Compiler.Should compile embed Schema" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/default/test/test.ts</test-file>
+      <test-names>
+        <name value="Mongoose Compiler" />
+        <name value="Should compile embed Schema" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Mongoose Compiler.Should create Simple Schema" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/default/test/test.ts</test-file>
+      <test-names>
+        <name value="Mongoose Compiler" />
+        <name value="Should create Simple Schema" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Mongoose Compiler.Should reference correct Schema" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/default/test/test.ts</test-file>
+      <test-names>
+        <name value="Mongoose Compiler" />
+        <name value="Should reference correct Schema" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="npm.watch" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="Mocha.Mongoose Compiler.Should create Simple Schema" />
+      <item itemvalue="Mocha.Mongoose Compiler.Should compile embed Schema" />
+      <item itemvalue="Mocha.Mongoose Compiler.Should reference correct Schema" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Mongoose Compiler.Should create Simple Schema" />
+        <item itemvalue="Mocha.Mongoose Compiler.Should compile embed Schema" />
+        <item itemvalue="Mocha.Mongoose Compiler.Should reference correct Schema" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.watch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da19c180-86af-4f56-a0d0-d142c91a08cc" name="Default Changelist" comment="" />
+      <created>1548468728952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548468728952</updated>
+      <workItem from="1548468730168" duration="11277000" />
+      <workItem from="1548483883659" duration="8998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mongoose_Compiler_Should_create_Simple_Schema - 2019.01.26 at 22h 49m 15s.xml">
+      <configuration name="Mongoose Compiler.Should create Simple Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_create_Simple_Schema - 2019.01.26 at 22h 49m 16s.xml">
+      <configuration name="Mongoose Compiler.Should create Simple Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_create_Simple_Schema - 2019.01.26 at 22h 49m 23s.xml">
+      <configuration name="Mongoose Compiler.Should create Simple Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_compile_embed_Schema - 2019.01.26 at 22h 51m 07s.xml">
+      <configuration name="Mongoose Compiler.Should compile embed Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_compile_embed_Schema - 2019.01.26 at 22h 53m 43s.xml">
+      <configuration name="Mongoose Compiler.Should compile embed Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_reference_correct_Schema - 2019.01.26 at 22h 54m 39s.xml">
+      <configuration name="Mongoose Compiler.Should reference correct Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_reference_correct_Schema - 2019.01.26 at 22h 55m 30s.xml">
+      <configuration name="Mongoose Compiler.Should reference correct Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_reference_correct_Schema - 2019.01.26 at 22h 55m 35s.xml">
+      <configuration name="Mongoose Compiler.Should reference correct Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_reference_correct_Schema - 2019.01.26 at 22h 55m 52s.xml">
+      <configuration name="Mongoose Compiler.Should reference correct Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mongoose_Compiler_Should_compile_embed_Schema - 2019.01.26 at 22h 56m 44s.xml">
+      <configuration name="Mongoose Compiler.Should compile embed Schema" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20275000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="376" y="65" width="1486" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48022598" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4463277" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3299435" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.459887" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/types.js" />
+        <option value="$PROJECT_DIR$/src/types.js.map" />
+        <option value="$PROJECT_DIR$/src/model.js.map" />
+        <option value="$PROJECT_DIR$/src/model.js" />
+        <option value="$PROJECT_DIR$/src/compiler.js.map" />
+        <option value="$PROJECT_DIR$/src/index.js.map" />
+        <option value="$PROJECT_DIR$/src/compiler.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/schema.js" />
+        <option value="$PROJECT_DIR$/src/schema.js.map" />
+        <option value="$PROJECT_DIR$/default/mongoose-compiler.js.map" />
+        <option value="$PROJECT_DIR$/default/mongoose-compiler.js" />
+        <option value="$PROJECT_DIR$/default/mongoose-compiler.spec.js" />
+        <option value="$PROJECT_DIR$/default/mongoose-compiler.spec.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/model.js" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/src/model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/matthewlui/WebstormProjects/open-schema/test/test.ts">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/test/test.ts</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/src/schema.ts</node>
+            <node x="" y="">$PROJECT_DIR$/test/test.ts#NumberType#44;/Users/matthewlui/WebstormProjects/open-schema/test/test.ts#Schema#7;/Users/matthewlui/WebstormProjects/open-schema/test/test.ts#StringType#56;</node>
+            <node x="" y="">$PROJECT_DIR$/src/types.ts#NumberType#366;/Users/matthewlui/WebstormProjects/open-schema/src/types.ts#StringType#311;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="160.0" y="90.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/node_modules/@types/mongoose/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="1094" column="35" lean-forward="true" selection-start-line="1094" selection-start-column="35" selection-end-line="1094" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/node_modules/mongoose/lib/schema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="394" column="24" lean-forward="true" selection-start-line="394" selection-start-column="24" selection-end-line="394" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/mongoose-compiler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="483" column="20" lean-forward="true" selection-start-line="483" selection-start-column="20" selection-end-line="483" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/mongoose-compiler.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default/mongoose-compiler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schema.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/matthewlui.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

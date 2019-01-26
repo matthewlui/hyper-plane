@@ -1,0 +1,9 @@
+{
+  "name": "mongoose-compiler",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^5.3.10",
+    "@types/mongoose": "^5.3.10"
+  }
+}
+

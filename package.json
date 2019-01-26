@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "ts-node test/test.ts ",
+    "watch-node": "nodemon dist/index.js",
+    "watch": "npm run watch-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w",
+    "test": "nodemon --inspect test/test.js"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.5",
+    "chai": "^4.2.0",
+    "concurrently": "^4.1.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
+    "ts-node": "^8.0.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
+  }
+}
