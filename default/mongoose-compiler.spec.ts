@@ -1,7 +1,7 @@
 import {expect} from 'chai';
 import Schema from "../src/schema";
 import {BooleanType, DateType, NumberType, RelationType, StringType} from "../src/types";
-import {MongooseCompiler} from './mongoose-compiler';
+import {Compiler} from './index';
 
 class StringSchema implements Schema {
     name = 'string';
@@ -61,7 +61,7 @@ describe('Mongoose Compiler',() => {
     let compiler;
 
     beforeEach(() => {
-        compiler = new MongooseCompiler();
+        compiler = new Compiler.MongooseCompiler();
     });
 
     it('Should create schema with correct string value', () => {
