@@ -4,47 +4,54 @@ import {BooleanType, DateType, NumberType, RelationType, StringType} from "../sr
 import {Compiler} from './index';
 
 class StringSchema implements Schema {
-    name = 'string';
+    entityName = 'string';
     physical = true;
+    defaultCreatedAt = true;
     value = new StringType(null, null, null, null)
 }
 
 class NumberSchema implements Schema {
-    name = 'string';
+    entityName = 'string';
     physical = true;
+    defaultCreatedAt = true;
     value = new NumberType(null, null, null, null)
 }
 
 class DateSchema implements Schema {
-    name = 'string';
+    entityName = 'string';
     physical = true;
+    defaultCreatedAt = true;
     value = new DateType(null, null, null, null)
 }
 
 class BooleanSchema implements Schema {
-    name = 'string';
+    entityName = 'string';
     physical = true;
+    defaultCreatedAt = true;
     value = new BooleanType(null, null, null, null)
 }
 
 class Wheel implements Schema {
-    name = 'wheel';
+    entityName = 'wheel';
     physical = true;
+    defaultCreatedAt = true;
     brand = new StringType('Manufacture', null, "TOYOTA", true);
     size = new NumberType('diameter in cm', (s) => s > 50, 70, false)
 }
 
 class Car implements Schema {
-    name = 'car';
+    entityName = 'car';
     physical = true;
+    defaultCreatedAt = true;
     brand = new StringType('Manufacture', null, "TOYOTA", true);
     model = new StringType(null, null, "Hello", true);
     wheels = new RelationType(new Wheel(), null, false, false, false, 'Fair')
 }
 
 class Plane implements Schema {
-    name = 'plane';
+    entityName = 'plane';
     physical = true;
+    defaultCreatedAt = true;
     brand = new StringType('Manufacture', null, "AIR BUS", true);
     wheels = new RelationType(new Wheel(), null, false, true, false, 'Hello', false)
 }

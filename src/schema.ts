@@ -1,4 +1,5 @@
 export default interface Schema {
-    physical: Boolean
-    name: String
+    physical: Boolean;
+    entityName: String;
+    defaultCreatedAt: Boolean;
 }

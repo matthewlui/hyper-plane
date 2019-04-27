@@ -49,7 +49,7 @@ export namespace Compiler {
                 } else {
                     targetType = Schema.Types.ObjectId;
                     // @ts-ignore
-                    target.ref = value.target.name;
+                    target.ref = value.target.entityName;
                 }
             } else {
                 return null
