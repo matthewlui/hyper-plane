@@ -1,4 +1,5 @@
-export * from './src/schema';
+import Schema from './src/schema';
+export {Schema};
 export {
     StringType,
     NumberType,

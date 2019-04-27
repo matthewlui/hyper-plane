@@ -1,7 +1,7 @@
 {
   "name": "hyper-plane",
   "description": "Sicking Lazy Universal Schema Preprocessor",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "repository": "https://github.com/matthewlui/hyper-plane",
   "scripts": {
     "start": "ts-node test/test.ts ",
